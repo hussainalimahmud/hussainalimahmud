@@ -2,7 +2,7 @@
 
 Sedang mencoba coba...
 
-![...](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJlNDQ0bzY1bm40OWo4NXZ4dmpucXoyb2E0enNiZXN3cHF6bmhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2qzHVSVfPcBlC/giphy.gif)
+![Omak](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJlNDQ0bzY1bm40OWo4NXZ4dmpucXoyb2E0enNiZXN3cHF6bmhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2qzHVSVfPcBlC/giphy.gif)
 
 <!--
 **hussainalimahmud/hussainalimahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
