@@ -25,8 +25,8 @@
 - 🌍 Survival and building in **Minecraft**.
 - ⚔️ Having fun and rank pushing in **Mobile Legends**.
 
-<p align="center">
-  <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
+<p align="left">
+  <img src="ice-bear.gif" alt="Ice Bear Dancing"  />
 </p>
 
 ---
