@@ -26,7 +26,7 @@
 - ⚔️ Having fun and rank pushing in **Mobile Legends**.
 
 <p align="center">
-  <img src="0524-ezgif.com-video-to-gif-converter.gif" alt="Ice Bear Dancing" width="150" />
+  <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
 </p>
 
 ---
