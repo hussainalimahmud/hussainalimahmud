@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Choy!%2C+Selamat+datang+di+profilku&repeat=false" alt="Hallo Choy!, Selamat datang di profilku" />
   </picture>
 </p>
+Lets See..
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRia2p5czdkaXA3Y3lwemN2amNpMjUyeDE0N2VoejZoOG15OWZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
