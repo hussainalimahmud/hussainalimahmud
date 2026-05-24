@@ -1,6 +1,9 @@
 # Hi there, I'm Hussain Ali Mahmud! 👋
 
-![...](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czFrdXN1OWwzYWRoZXI3MnpwaDhvbW16bTRuenFzaWQzaDd3a29zMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WuXP1ZrfB13LJwWHNF/giphy.gif)
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRia2p5czdkaXA3Y3lwemN2amNpMjUyeDE0N2VoejZoOG15OWZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Developer GIF" width="100%" />
+</p>
+
 
 ### 🛠️ Tech Stack & Tools
 - **Programming Languages:** Python, JavaSript (little), Golang (Experimental)
