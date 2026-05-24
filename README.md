@@ -1,8 +1,6 @@
 # Hi there, I'm Hussain Ali Mahmud! 👋
 
-<p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czFrdXN1OWwzYWRoZXI3MnpwaDhvbW16bTRuenFzaWQzaDd3a29zMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WuXP1ZrfB13LJwWHNF/giphy.gif" alt="Developer GIF" width="100%" />
-</p>
+![...](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czFrdXN1OWwzYWRoZXI3MnpwaDhvbW16bTRuenFzaWQzaDd3a29zMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WuXP1ZrfB13LJwWHNF/giphy.gif)
 
 ### 🛠️ Tech Stack & Tools
 - **Programming Languages:** Python, JavaSript (little), Golang (Experimental)
@@ -11,7 +9,7 @@
 
 ### 🎮 Beyond Coding
 - 🌍 Survival and building in **Minecraft**.
-- ⚔️ Strategizing and rank pushing in **Mobile Legends**.
+- ⚔️ Having fun and rank pushing in **Mobile Legends**.
 
 ---
 
