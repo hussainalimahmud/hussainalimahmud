@@ -1,8 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=Hallo+Choy!,+Selamat+datang+di+profilku&repeat=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Choy!,+Selamat+datang+di+profilku&repeat=false">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Choy!,+Selamat+datang+di+profilku&repeat=false" alt="Hallo Choy!" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=500&color=FFFFFF&vCenter=true&width=800&lines=Hallo+Choy!&repeat=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=500&color=000000&vCenter=true&width=800&lines=Hallo+Choy!&repeat=false">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=500&color=000000&vCenter=true&width=800&lines=Hallo+Choy!&repeat=false" alt="Hallo Choy!" />
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=Selamat+datang+di+profilku&repeat=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=000000&vCenter=true&width=800&lines=Selamat+datang+di+profilku&repeat=false">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=000000&vCenter=true&width=800&lines=Selamat+datang+di+profilku&repeat=false" alt="Selamat datang di profilku" />
+  </picture>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=hussainalimahmud&style=for-the-badge&color=555555&label=PROFILE+VIEWS" alt="Profile Views" />
 
