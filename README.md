@@ -11,7 +11,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hussainalimahmud&style=for-the-badge&color=555555&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://discord.gg/PxMU5hPSaq" target="_blank">
+  <a href="https://discord.gg/PxMU5hPSaq">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
 </p>
