@@ -20,6 +20,7 @@
 - **Programming Languages:** Python, JavaScript (little), Golang (Experimental)
 - **Web Development:** HTML5, CSS3
 - **Tools:** Discord API
+- **Personal Project:** Building interactive Discord bots (ongoing), IoT-based RC car
 
 ### 🎮 Beyond Coding
 - 🌍 Survival and building in **Minecraft**.
@@ -31,4 +32,4 @@
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”*
+> “Code is like humor. When you have to explain it, it’s bad.”
