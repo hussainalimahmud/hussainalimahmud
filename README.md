@@ -3,9 +3,9 @@
 </p>
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=Hallo+Choy!%2C+Selamat+datang+di+profilku&repeat=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Choy!%2C+Selamat+datang+di+profilku&repeat=false">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Choy!%2C+Selamat+datang+di+profilku&repeat=false" alt="Hallo Chuy!, Welcome to my profile" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=Hallo+Chuy!%2C+Welcome+to+my+profile&repeat=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Chuy!%2C+Welcome+to+my+profile&repeat=false">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1000&color=000000&vCenter=true&width=800&lines=Hallo+Chuy!%2C+Welcome+to+my+profile&repeat=false" alt="Hallo Chuy!, Welcome to my profile" />
   </picture>
 </p>
 
