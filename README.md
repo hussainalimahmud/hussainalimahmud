@@ -20,7 +20,10 @@
 - **Programming Languages:** Python, JavaScript (little), Golang (Experimental)
 - **Web Development:** HTML5, CSS3
 - **Tools:** Discord API
+
+### 📋 Project
 - **Personal Project:** Building interactive Discord bots (ongoing), IoT-based RC car
+- **Real World Project:** -
 
 ### 🎮 Beyond Coding
 - 🌍 Survival and building in **Minecraft**.
