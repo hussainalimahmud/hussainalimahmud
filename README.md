@@ -19,11 +19,11 @@
 ### 🛠️ Tech Stack & Tools
 - **Programming Languages:** Python, JavaScript (little), Golang (Experimental)
 - **Web Development:** HTML5, CSS3
-- **Tools:** Git, GitHub, Discord API
+- **Tools:** Discord API
 
 ### 🎮 Beyond Coding
 - 🌍 Survival and building in **Minecraft**.
-- ⚔️ Having fun and rank pushing in **Mobile Legends**.
+- ⚔️ Having fun and push rank in **Mobile Legends**.
 
 <p align="left">
   <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
