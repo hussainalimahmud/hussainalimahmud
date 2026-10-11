@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack & Tools
 - **Programming Languages:** Python, JavaScript (little), Golang (Experimental)
 - **Web Development:** HTML5, CSS3
-- **Tools:** Discord API
+- **Tools:** VSCODE, Discord API, Arduino IDE
 
 ### 📋 Project
 - **Personal Project:** Building interactive Discord bots (ongoing), IoT-based RC car
