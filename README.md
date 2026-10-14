@@ -21,7 +21,7 @@
 - **Tools:** VS Code, Discord API, Arduino IDE
 
 ### 📋 Project
-- **Personal Project:** Building interactive Discord bots (ongoing), [IoT-based RC car](https://github.com/hussainalimahmud/Rozorc_stable)
+- **Personal Project:** [Building interactive Discord bots (ongoing)](https://github.com/hussainalimahmud/discord-bot-system-ROZON-demo), [IoT-based RC car](https://github.com/hussainalimahmud/Rozorc_stable)
 - **Real World Project:** -
 
 ### 🎮 Beyond Coding
