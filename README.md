@@ -28,6 +28,8 @@
 - 🌍 Survival and building in **Minecraft**.
 - ⚔️ Having fun and push rank in **Mobile Legends**.
 
+---
+
 <p align="left">
   <img src="github-metrics.svg" alt="GitHub Metrics"/>
 </p>
