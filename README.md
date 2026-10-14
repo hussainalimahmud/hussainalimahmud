@@ -35,6 +35,7 @@
 <p align="left">
   <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
 </p>
+
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.”*
