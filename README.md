@@ -32,7 +32,7 @@
   <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
