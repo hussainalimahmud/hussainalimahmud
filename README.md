@@ -21,7 +21,7 @@
 - **Tools:** VS Code, Discord API, Arduino IDE
 
 ### 📋 Project
-- **Personal Project:** Building interactive Discord bots (ongoing), IoT-based RC car
+- **Personal Project:** Building interactive Discord bots (ongoing), [IoT-based RC car](https://github.com/username/nama-repo-rc-car)
 - **Real World Project:** -
 
 ### 🎮 Beyond Coding
