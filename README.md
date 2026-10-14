@@ -29,11 +29,11 @@
 - ⚔️ Having fun and push rank in **Mobile Legends**.
 
 <p align="left">
-  <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
+  <img src="github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <p align="left">
-  <img src="github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
 </p>
 
 ---
