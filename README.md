@@ -10,9 +10,6 @@
 </p>
 
 <p align="left">
-  <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
   <a href="https://discord.gg/PxMU5hPSaq" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
@@ -33,6 +30,10 @@
 
 <p align="left">
   <img src="ice-bear.gif" alt="Ice Bear Dancing" width="150" />
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
