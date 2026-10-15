@@ -16,7 +16,7 @@
 </p>
 
 ### 🛠️ Tech Stack & Tools
-- **Programming Languages:** Python, JavaScript (little), Golang (Experimental)
+- **Programming Languages:** Python, JavaScript (little), Golang (newbie)
 - **Web Development:** HTML5, CSS3
 - **Tools:** VS Code, Discord API, Arduino IDE
 
