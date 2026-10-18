@@ -1,6 +1,6 @@
-*art from: giphy.com*
+*art from: giphy.com, author: ioana sopov*
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnQ1dXQwdjk1aXF6cXkycTI2eXJsaDJsdmFoazM2cWY1MWpsZW9ldyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" alt="Developer GIF" width="100%" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWFpNzlmbzZ5anl6cTd0cDk4N2lsdGx2dnVwcWQ0ZWM1NzBrMXpnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIpj8HJGVGGTUdM76b/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
 <p align="left">
   <picture>
