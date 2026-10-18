@@ -1,4 +1,4 @@
-*art from: giphy.com <br>author: ioana sopov*
+*art from: giphy.com <br>author: @ioanasopov*
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWFpNzlmbzZ5anl6cTd0cDk4N2lsdGx2dnVwcWQ0ZWM1NzBrMXpnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIpj8HJGVGGTUdM76b/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
