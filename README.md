@@ -1,6 +1,6 @@
-*art from: giphy.com <br>author: @*
+*art from: giphy.com <br>author: -
 <p align="center">
-    <img src="" alt="Developer GIF" width="100%" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZqb2VueTh6aGFtdHRpcGJ1YXBrendyZ3M0cjNwdTRiZGVveDdveCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
 <p align="left">
   <picture>
