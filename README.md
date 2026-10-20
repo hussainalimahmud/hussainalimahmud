@@ -1,6 +1,6 @@
 *art from: giphy.com <br>author: -
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZqb2VueTh6aGFtdHRpcGJ1YXBrendyZ3M0cjNwdTRiZGVveDdveCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="Developer GIF" width="100%" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFteTN3bXZ4MjBzYXl5d2s1Z3kwazI0eng0cDQ1MmRpZ29mem4xdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k8kITi9SAwe9JWbUaH/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
 <p align="left">
   <picture>
