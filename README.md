@@ -23,7 +23,6 @@
 
 ### 📋 Project
 - **Personal Project:** [Building interactive Discord bots](https://github.com/hussainalimahmud/discord-bot-system-ROZON-demo) (ongoing), [IoT-based RC car](https://github.com/hussainalimahmud/Rozorc_stable)
-- **Next Project:** 3D model Rc car.
 - **Real World Project:** -
 
 ### 🎮 Beyond Coding
