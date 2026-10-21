@@ -1,6 +1,6 @@
 *art from: giphy.com <br>author    : XBOX*
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGJ4dmFzM2UyYnh5aTV1ZTdpZDlnNThxMzdkcGpucDVuMnpmdTJ5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rMt21mWOyuxcoLwgwU/giphy.gif" alt="Developer GIF" width="100%" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnhpbnVnaHo4Ym5pcW9kb29tMW01enBrMGM3dHQwdWJjYjdyY3IxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNySPj69tVEEaaqoa9/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
 <p align="left">
   <picture>
