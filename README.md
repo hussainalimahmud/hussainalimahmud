@@ -27,7 +27,7 @@
 
 ### 🎮 Beyond Coding
 - 🌍 Survival and building in **Minecraft**.
-- ⚔️ Having fun and push rank in **Mobile Legends**. cihuyyyy
+- ⚔️ Having fun and push rank in **Mobile Legends**.
 
 ---
 
