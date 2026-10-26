@@ -1,4 +1,4 @@
-*art from: giphy.com <br>author: XBOX*
+*art from: giphy.com <br>author:*
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnhpbnVnaHo4Ym5pcW9kb29tMW01enBrMGM3dHQwdWJjYjdyY3IxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNySPj69tVEEaaqoa9/giphy.gif" alt="Developer GIF" width="100%" />
 </p>
